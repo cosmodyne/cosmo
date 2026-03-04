@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 70" fill="none">
+  <style>
+    .title { font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace; font-size: 48px; font-weight: 600; letter-spacing: 0.05em; fill: #1a1a1a; }
+    .star { font-size: 32px; fill: #5B4FE8; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #e6e6e6; }
+      .star { fill: #7B6FF0; }
+    }
+  </style>
+  <text x="48" y="37" dominant-baseline="central" class="star">✦</text>
+  <text x="90" y="51" class="title">cosmo</text>
+</svg>
