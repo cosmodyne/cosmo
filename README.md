@@ -6,8 +6,6 @@
     <em>Launch infrastructure at the speed of light.</em>
 </p>
 
----
-
 <br>
 
 > T-minus... · not yet launched
